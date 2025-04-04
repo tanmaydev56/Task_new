@@ -5,7 +5,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <main className="w-full flex flex-col items-center  px-4">
+    <main className="lg:w-full w-auto flex flex-col items-center  px-4">
       <div className="hidden lg:block absolute z-[-1] top-[50px] right-[0px]">
           <Image
             src="/Realistic Abstract 3.png"

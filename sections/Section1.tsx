@@ -5,12 +5,9 @@ import React from 'react'
 
 const Section1 = () => {
   return (
-    <section className="w-full max-w-[1200px] flex flex-col items-center text-center space-y-8 pt-10 relative">
+    <section className=" lg:max-w-[1200px] w-auto flex flex-col items-center text-center space-y-8 pt-10 relative">
         
-    {/* Background Images */}
     
-
-    {/* Navbar */}
     
 
     {/* Heading */}

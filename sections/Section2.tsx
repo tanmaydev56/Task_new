@@ -3,7 +3,7 @@ import React from "react";
 
 const Section2 = () => {
   return (
-    <section className="bg-[#F7F7FB] w-[1519px] mt-8 min-h-screen flex flex-col items-center justify-center text-center space-y-10 px-4 py-16">
+    <section className="bg-[#F7F7FB] lg:w-[1519px] w-auto mt-8 min-h-screen flex flex-col items-center justify-center text-center space-y-10 px-4 py-16">
       {/* Section Heading */}
       <div className="flex flex-col items-center text-center space-y-3">
         <h3 className="uppercase text-xs sm:text-sm tracking-wide text-gray-500 font-semibold">
