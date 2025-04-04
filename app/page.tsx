@@ -1,5 +1,6 @@
 
 import Section1 from "@/sections/Section1";
+import Section2 from "@/sections/Section2";
 import Image from "next/image";
 
 export default function Home() {
@@ -24,7 +25,7 @@ export default function Home() {
           />
         </div>
      <Section1/>
-     {/* <Section1/> */}
+     <Section2/>
     </main>
   );
 }

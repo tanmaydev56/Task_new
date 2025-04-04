@@ -1,5 +1,5 @@
 import CourseGrid from '@/components/CourseGrid'
-import Navbar from '@/components/Navbar'
+
 import Image from 'next/image'
 import React from 'react'
 
@@ -11,9 +11,7 @@ const Section1 = () => {
     
 
     {/* Navbar */}
-    <div className="w-full flex justify-center">
-      <Navbar />
-    </div>
+    
 
     {/* Heading */}
     <div className="flex flex-col max-w-[980px] text-left space-y-6">
