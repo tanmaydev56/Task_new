@@ -9,7 +9,7 @@ const Navbar = () => {
     <nav className="w-full max-w-[687px] h-[56px] bg-[#F0F0F07A] shadow-md rounded-xl p-4 flex items-center justify-around relative">
       {/* Logo */}
       <div className="flex items-center space-x-2">
-        <Image width={68} height={68} src="/logo.svg" alt="Logo" />
+        <Image width={68} height={68} src="/logo.png" alt="Logo" />
         <span className="font-semibold text-gray-800 text-lg">Data Vidhya</span>
       </div>
 
