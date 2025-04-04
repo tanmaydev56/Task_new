@@ -42,7 +42,7 @@ const Section1 = () => {
           "Gain Hands-on Experience",
         ].map((text, index) => (
           <p key={index} className="flex items-center gap-2 text-gray-700 text-base md:text-lg font-medium">
-            <Image src="/Check.png" width={20} height={20} alt="check icon" />
+            <Image src="/Check.svg" width={20} height={20} alt="check icon" />
             {text}
           </p>
         ))}
