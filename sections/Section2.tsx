@@ -80,7 +80,7 @@ const Section2 = () => {
               
 
               {/* Enroll Button */}
-              <div className="w-[314px] flex justify-end">
+              <div className="sm:w-[290px]  lg:w-[314px] flex justify-end">
   <button
     className="mt-4 bg-gradient-to-r from-[#2D3BF2] to-[#B832E9] text-white px-5 py-2 rounded-lg w-[124px] h-[36px] flex justify-center items-center font-semibold hover:opacity-90 transition"
   >
